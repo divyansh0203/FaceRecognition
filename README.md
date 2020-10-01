@@ -42,7 +42,7 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib
 
 ## Dataset
 
-I used the LFWa version of the LFW dataset in order to be able to compare my results with other algorithms. It can be downloaded with
+I have used the LFWa version of the LFW dataset in order to be able to compare my results with other algorithms. It can be downloaded with
 ```
 wget http://www.openu.ac.il/home/hassner/data/lfwa/lfwa.tar.gz
 tar xvfz lfwa.tar.gz
